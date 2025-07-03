@@ -1,2 +1,2 @@
-# PracticeRepo
-This is a practice repository created to test GitHub basics.
+# MyFirstRepo
+This is my first repository created as part of a GitHub learning task
